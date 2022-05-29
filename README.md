@@ -8,7 +8,7 @@ textUtils is a text based utility which can be used to manipulate your text in t
 ## Features
 This application gives you a way to analyze your text quickly and efficiently. You can Count Words and Characters. Also you can change the words from lowercase to UPPERCASE or vice-versa, you can reverse the text and, can Remove the Extra Spaces.
 
-Also you can **Copy** your text.
+Moreover, you can **Copy** your text.
 
 ## Built With
 * Bootstrap
